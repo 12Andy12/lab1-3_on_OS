@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1665125080 source:/home/andrey/Program/Oper/Oper/main.cpp
+	<iostream>
+	"list.h"
+	"student.h"
+	<string>
+	<vector>
+
+1662905511 source:/home/andrey/Program/Oper/Oper/src/list.cpp
+	"list.h"
+
+1665125123 /home/andrey/Program/Oper/Oper/include/list.h
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	"student.h"
+
+1665122407 /home/andrey/Program/Oper/Oper/include/student.h
+	<iostream>
+
+1665124667 source:/home/andrey/Program/Oper/Oper/src/student.cpp
+	"student.h"
+	<stdio.h>
+

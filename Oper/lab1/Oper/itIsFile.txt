@@ -1,0 +1,10 @@
+age=25;name=Andy;iq=10;
+age=69;name=Ivan;iq=86;
+age=51;name=Alex;iq=49;
+age=54;name=Alex;iq=11;
+age=56;name=Alex;iq=141;
+age=53;name=Ivan;iq=0;
+age=40;name=Andy;iq=164;
+age=51;name=Alex;iq=191;
+age=44;name=Ivan;iq=157;
+age=79;name=Andy;iq=197;

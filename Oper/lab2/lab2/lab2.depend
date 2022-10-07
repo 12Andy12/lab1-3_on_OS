@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1664730504 source:/home/andrey/Program/Oper/lab2/lab2/main.cpp
+	<iostream>
+	<sys/sysinfo.h>
+

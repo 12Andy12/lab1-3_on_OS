@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1665129045 source:/home/andrey/Program/Oper/lab3/Oper3/main.cpp
+	<stdio.h>
+	<sys/types.h>
+	<unistd.h>
+	<signal.h>
+
+1665126612 source:/home/andrey/Program/Oper/lab3/Oper3/megaCode.cpp
+	"header.h"
+
+1665125922 /home/andrey/Program/Oper/lab3/Oper3/header.h
+	<stdio.h>
+	<sys/types.h>
+	<unistd.h>
+
